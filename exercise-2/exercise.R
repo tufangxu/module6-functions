@@ -24,7 +24,7 @@ DescribeDifference <- function(C,D) {
     print(sentence1)
   } else {
     print(sentence2)
-  }   
+  }    
 }
 
 # Pass two strings of different lengths to your `DescribeDifference` function
