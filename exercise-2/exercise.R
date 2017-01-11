@@ -5,7 +5,7 @@
 #   "The difference in length is N"
 CompareLength <- function(A,B) {
   dif <- paste ("The difference in length is",abs(nchar(A)-nchar(B)),sep = " ")
-  print(dif)
+  print(dif)  
 }
 
  
